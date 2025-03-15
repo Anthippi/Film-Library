@@ -78,4 +78,6 @@ To run the application, you need to have the `graphics.h` library and **SGG** in
 - The application uses a simple GUI that allows the user to browse through movies using buttons and checkboxes.
 - Movies are organized in three rows in the graphical window.
 - Filters for genre and year allow the user to narrow down the movies shown.
-
+  
+![Film_Library1](https://github.com/user-attachments/assets/bbf8b296-4a0e-4da4-aa6a-fdbf9e3398c9)
+![Film_Library2](https://github.com/user-attachments/assets/17eb3c5b-229e-4bd7-b853-5426bae42f37)
