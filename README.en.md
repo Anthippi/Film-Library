@@ -1,6 +1,6 @@
 # Movie Browser Application "Film-Library"
 
-This application is a graphical interface for viewing movies, with filtering and search capabilities, built using the `graphics.h` library. Users can browse a collection of movies, view their details, and apply filters to narrow down the search according to their preferences.
+This application is a graphical interface for viewing movies, with filtering and search capabilities, built using the **[SGG](https://github.com/cgaueb/sgg)** library. Users can browse a collection of movies, view their details, and apply filters to narrow down the search according to their preferences.
 
 ## Description
 
