@@ -70,7 +70,7 @@ To run the application, you need to have the `graphics.h` library and **SGG** in
 
 1. Download the necessary project files (or clone the repository).
 2. Install the `graphics.h` library and **SGG** in your development environment.
-3. Compile the code using a tool like `g++` or through your preferred IDE.
+3. Compile the code using a tool like `Visual Studio` or through your preferred IDE.
 4. Run the application and start interacting with the movies and filters!
 
 ## Design and Operation
