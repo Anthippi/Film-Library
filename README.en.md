@@ -45,7 +45,7 @@ The application consists of the following main parts:
 
 ## Use of SGG
 
-The application uses the **[SGG](https://github.com/cgaueb/sgg)** (Simple Game Graphics Library), which provides tools and methods for creating graphical interfaces and interacting with the user. In this particular case, SGG helps with:
+The application uses the **SGG** (Simple Game Graphics Library), which provides tools and methods for creating graphical interfaces and interacting with the user. In this particular case, SGG helps with:
 - Window creation and graphics canvas management.
 - Drawing interactive elements and applying scaling to fit the window.
 - Handling interactions with widgets and filters.
